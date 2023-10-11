@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "photos-63da5": {
+      "hosting": {
+        "FileUpload": [
+          "photos-63da5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "photos-63da5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "FileUpload",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
